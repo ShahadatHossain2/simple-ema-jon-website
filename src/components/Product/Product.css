@@ -1,0 +1,19 @@
+.items-container{
+    display: flex;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    border-bottom: 1px solid lightgrey;
+}
+.items-container h4{
+    color: blue;
+    font-weight: 400;
+}
+.main-button{
+    background-color: goldenrod;
+    border: 1px solid lightgrey;
+    padding: 5px;
+    border-radius: 5px;
+    width: 150px;
+    cursor: pointer;
+}
